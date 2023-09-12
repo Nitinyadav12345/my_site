@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ea28fdf.css",
+    "main.js": "/static/js/main.986fc468.js",
+    "static/media/boy-nitin.png": "/static/media/boy-nitin.c0b809fae0bfa3e1e170.png",
+    "static/media/s4.jpg": "/static/media/s4.00471b8589ee32af7d6d.jpg",
+    "static/media/s-1.jpg": "/static/media/s-1.69d57ef599d0861bb5e1.jpg",
+    "static/media/s6.jpg": "/static/media/s6.266e1536d345d9c95a73.jpg",
+    "static/media/s2.jpg": "/static/media/s2.5541efb94eaacc967f30.jpg",
+    "static/media/s3.jpg": "/static/media/s3.82364a7f16d66455bcc3.jpg",
+    "static/media/resume.pdf": "/static/media/resume.f0972f666d603a052843.pdf",
+    "static/media/s5.jpg": "/static/media/s5.c3b4535638d38fb835c6.jpg",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.0ea28fdf.css.map": "/static/css/main.0ea28fdf.css.map",
+    "main.986fc468.js.map": "/static/js/main.986fc468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea28fdf.css",
+    "static/js/main.986fc468.js"
+  ]
+}
